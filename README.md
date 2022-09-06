@@ -25,7 +25,7 @@ const Xinin = {
   experiences: [
     {
       company : "Keepler",
-      post : "Software & Cloud Solutions Architect"
+      post : "Principal Software & Cloud Architect"
     },
     {
       company : "Openbank",
